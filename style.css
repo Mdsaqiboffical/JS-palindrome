@@ -12,6 +12,12 @@ body {
     background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-summer-men-s-leather-shoes-sandals-business-casual-leather-simple-atmosphere-image_194923.jpg);
     background-repeat: no-repeat;
     background-size: 1400px;
+    margin-top: 6rem;
+}
+@media only screen and (max-width:992px){
+    body{
+        margin-top: 7rem;
+    }
 }
 
 #word-wrapper {
